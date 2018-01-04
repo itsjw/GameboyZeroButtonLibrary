@@ -18,8 +18,3 @@ Plain and simple, this is an Eagle CAD library for Gameboy Zero buttons.
 
 ### Installation
 Drag and drop **GameboyZeroButtonLibrary.lbr** into your **Eagle CAD** *lbr* directory, or use the Library Manager in newer version of eagle.
-
-
-
-#### A word from our sponsor
-
